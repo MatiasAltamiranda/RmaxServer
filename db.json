@@ -70,26 +70,6 @@
     },
     {
       "id": 6,
-      "name": "LLUVIA DE HAMBURGUESAS",
-      "description": "Cuando la ciudad de Swallow Falls vive momentos difíciles, su población sólo puede comer sardinas. Flint Lockwood, un inventor fracasado, cree que él tiene la respuesta para la crisis de la ciudad.",
-      "category": "Animada",
-      "featured": false,
-      "image": "https://i.pinimg.com/originals/72/64/76/726476ee132b968c1f5de50626c828ca.jpg",
-      "coverPage": "https://1.bp.blogspot.com/-MSNkZz2qB04/X83iVZpgGVI/AAAAAAAAD7k/OXzeSwheiuwwEnU70NoRf7uZ68DZM-boACLcBGAsYHQ/s1280/LDH_TVLaint.jpg",
-      "trailer": "https://www.youtube.com/embed/U-T_wzsYKb0"
-    },
-    {
-      "id": 7,
-      "name": "HOTEL TRANSYLVANIA",
-      "description": "Hotel Transylvania es una película de animación por computadora en 3D producida por Sony Pictures Animation y distribuida por Columbia Pictures que fue estrenada el 21 de septiembre de 2012.",
-      "category": "Animada",
-      "featured": true,
-      "image": "http://1.bp.blogspot.com/-0j2abf202dY/VgrJOtej0pI/AAAAAAAACr0/pgjLosyiL8M/s1600/hotel-transylvania-poster.jpg",
-      "coverPage": "https://1.bp.blogspot.com/-b07aP_IRrxg/YV1Y9SocjZI/AAAAAAABF78/1dBZwbqvtvEHkAoQMdNSiDdHQDwkz5rQACLcBGAsYHQ/s2048/hotel%2Btransilvania.jpg",
-      "trailer": "https://www.youtube.com/embed/q4RK3jY7AVk"
-    },
-    {
-      "id": 8,
       "name": "ONE PIECE ESTAMPIDA",
       "description": "Sé testigo de una batalla campal entre piratas, marines, los Siete Señores de la Guerra y el Ejército Revolucionario con motivo del Festival de los Piratas.",
       "category": "Animada",
@@ -99,7 +79,7 @@
       "trailer": "https://www.youtube.com/embed/S8_YwFLCh4U"
     },
     {
-      "id": 9,
+      "id": 7,
       "name": "IRON MAN 3",
       "description": "El descarado y brillante Tony Stark, tras ver destruido todo su universo personal, debe encontrar y enfrentarse a un enemigo cuyo poder no conoce límites. Este viaje pondrá a prueba su entereza una y otra vez, y le obligará a confiar en su ingenio.",
       "category": "Accion",
@@ -109,7 +89,7 @@
       "trailer": "https://www.youtube.com/embed/bKWvs_yCT6c"
     },
     {
-      "id": 10,
+      "id": 8,
       "name": "JOHN WICK",
       "description": "John Wick es una franquicia de medios estadounidense de acción y suspenso neo-noir creada por el guionista Derek Kolstad y protagonizada por Keanu Reeves como John Wick, un ex asesino a sueldo que se ve obligado a regresar al inframundo criminal que había abandonado.",
       "category": "Accion",
@@ -119,7 +99,7 @@
       "trailer": "https://www.youtube.com/embed/C0BMx-qxsP4"
     },
     {
-      "id": 11,
+      "id": 9,
       "name": "RAPIDOS Y FURIOSOS 7",
       "description": "Hace un año que Dominic y Brian fueron indultados y pudieron regresar a los Estados Unidos. Después de su llegada desean adaptarse a su nueva vida dentro de la legalidad, pero las cosas no son tan fáciles. Dom quiere acercarse a Letty y Brian se acostumbra a la vida en una urbanización con Mia y su hijo.",
       "category": "Accion",
@@ -129,67 +109,7 @@
       "trailer": "https://www.youtube.com/embed/wuzHuNvlQiE"
     },
     {
-      "id": 12,
-      "name": "DUNKIRK",
-      "description": "En mayo de 1940, durante la Segunda Guerra Mundial, Alemania avanza hacia Francia, atrapando a las tropas aliadas en las playas de Dunkerque. Bajo protección aérea y terrestre de las fuerzas británicas y francesas, las tropas son evacuadas lenta y metódicamente de la playa utilizando cualquier embarcación militar o civil disponible. Al final de la heroica misión, 330.000 soldados franceses, británicos, belgas y holandeses son evacuados sanos y salvos.",
-      "category": "Accion",
-      "featured": false,
-      "image": "https://i.pinimg.com/originals/d5/77/a8/d577a8bbe555efc652f3b17db344c5f4.jpg",
-      "coverPage": "https://www.redespoder.com/wp-content/uploads/2017/07/dunkir.jpg",
-      "trailer": "https://www.youtube.com/embed/DsRcqwGOmUU"
-    },
-    {
-      "id": 13,
-      "name": "FURIA DE TITANES",
-      "description": "Perseo, hijo de Zeus y una mortal, se embarca en una peligrosa misión para salvar la vida de la princesa Andrómeda. Atrapado en una guerra entre dioses, en su épico viaje tendrá que enfrentarse a criaturas aterradoras y poderosas. Entretanto, Hades, dios del inframundo de los muertos planea derrocar a Zeus, el rey de los dioses del Olimpo.",
-      "category": "Accion",
-      "featured": false,
-      "image": "https://pics.filmaffinity.com/Furia_de_titanes-455371967-large.jpg",
-      "coverPage": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABal0I-NwJXUTQyEDwVregKHZbBOqlBxXolonCaUhr0sVaQXqnr5UpveNST6WcsOB0m5LTFC8sfAOuNPnjn-NSpr85w1L.jpg?r=67d",
-      "trailer": "https://www.youtube.com/embed/cfk-eagYt9Q"
-    },
-    {
-      "id": 14,
-      "name": "GRANDES HEROES",
-      "description": "Cuando un giro inesperado de eventos los sumerge en el medio de un peligroso plan, un niño prodigio, su robot y sus amigos se convierten en héroes de alta tecnología en una misión para salvar su ciudad.",
-      "category": "Animada",
-      "featured": false,
-      "image": "https://img.lagaceta.com.ar/fotos/notas/2014/12/12/619904_20141212180004.jpg",
-      "coverPage": "https://i.pinimg.com/originals/b2/e2/a9/b2e2a9b5ac50dd51fe682ff1c15627d2.jpg",
-      "trailer": "https://www.youtube.com/embed/gZgre_WKDuk"
-    },
-    {
-      "id": 15,
-      "name": "BUSCANDO A NEMO",
-      "description": "Nemo, un pequeño pececillo, muy querido y protegido por su padre, se pierde fuera de la gran barrera del arrecife australiano, después de ser capturado por este arrecife, Nemo terminará en una pecera en Sidney.",
-      "category": "Animada",
-      "featured": true,
-      "image": "https://pics.filmaffinity.com/Buscando_a_Nemo-284341931-large.jpg",
-      "coverPage": "https://w0.peakpx.com/wallpaper/648/1001/HD-wallpaper-finding-nemo-pixar-disney-finding-nemo.jpg",
-      "trailer": "https://www.youtube.com/embed/ba4TwyaNhSQ"
-    },
-    {
-      "id": 16,
-      "name": "DR STRANGE",
-      "description": "La vida del famoso neurocirujano Dr. Stephen Strange cambia para siempre cuando un terrible accidente de coche le arrebata el uso de sus manos.",
-      "category": "Accion",
-      "featured": true,
-      "image": "https://pics.filmaffinity.com/Dr_Strange_Doctor_Extra_o-684926027-large.jpg",
-      "coverPage": "https://sm.ign.com/ign_es/feature/d/doctor-str/doctor-strange-sequel-what-is-the-mcus-multiverse-of-madness_8rnx.jpg",
-      "trailer": "https://www.youtube.com/embed/pLZH1rquIrg"
-    },
-    {
-      "id": 17,
-      "name": "MAZE RUNNER 3",
-      "description": "Thomas no puede confiar en CRUEL. La organización le borró los recuerdos y lo encerró en el Laberinto. Después lo dejó al borde de la muerte, en el Desierto.",
-      "category": "Accion",
-      "featured": true,
-      "image": "https://i.pinimg.com/originals/9a/77/ab/9a77ab0c7e82f3818a5537b1bd479a38.jpg",
-      "coverPage": "http://www.todolocool.com/wp-content/uploads/2018/01/maze-runner-the-death-cure-gang.jpg",
-      "trailer": "https://www.youtube.com/embed/4-BTxXm8KSg"
-    },
-    {
-      "id": 18,
+      "id": 10,
       "name": "CHIQUITO PERO PELIGROSO",
       "description": "Después de pasar varios años en la cárcel, Calvin Sims, un duro ladrón de joyas que no supera el metro de altura, decide retirarse del mundo del delito. Pero antes quiere dar un último gran golpe. De esta manera, él y su socio se preparan para robar un valioso diamante con un plan perfecto.",
       "category": "Comedia",
@@ -199,7 +119,7 @@
       "trailer": "https://www.youtube.com/embed/n6ir-qPI2PU"
     },
     {
-      "id": 19,
+      "id": 11,
       "name": "LA OTRA MISSY",
       "description": "Tras un intensa relación virtual, un joven decide invitar a la chica de sus sueños a una isla paradisíaca. Sin embargo, cuando se encuentran en persona, ambos se dan cuenta del error que han cometido.",
       "category": "Comedia",
@@ -209,7 +129,7 @@
       "trailer": "https://www.youtube.com/embed/USyMyS5JDT4"
     },
     {
-      "id": 20,
+      "id": 12,
       "name": "NOCHE DE JUEGOS",
       "description": "Max y Annie quedan todas las semanas con sus amigos para celebrar una noche de juegos. Competitivos hasta el extremo, ahora están preocupados por la vuelta del hermano de Max, un presuntuoso ganador que lleva toda la vida menospreciándolo.",
       "category": "Comedia",
@@ -217,46 +137,6 @@
       "image": "https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F050%2F061%2Fnoche-de-juegos-1.jpg&nuevoancho=690&medio=abc",
       "coverPage": "https://image.tmdb.org/t/p/original/qAKNhj2E2f3c8gdYZYZqqtgsOZt.jpg",
       "trailer": "https://www.youtube.com/embed/oDcq4GBOaTg"
-    },
-    {
-      "id": 21,
-      "name": "PASANTE DE MODA",
-      "description": "Ben Whittaker, un jubilado viudo de 70 años, tiene demasiado tiempo libre y muy pocas cosas con las que llenarlo. Cuando ve una oferta de trabajo para 'becarios sénior' en una empresa que opera en internet, no duda en presentarse.",
-      "category": "Comedia",
-      "featured": false,
-      "image": "https://i.pinimg.com/originals/ce/6d/29/ce6d29decbbffb3ede7f46966b97bdd2.jpg",
-      "coverPage": "https://media.vogue.mx/photos/5e990e5695dff100089b7093/master/w_3000,h_1688,c_limit/the-intern.jpg",
-      "trailer": "https://www.youtube.com/embed/LbxjI4XS_Og"
-    },
-    {
-      "id": 22,
-      "name": "VACACIONES",
-      "description": "Siguiendo las huellas de su padre y con la esperanza de construir ese vínculo familiar que tanto ansía, un Rusty Griswold ya mayor decide dar una sorpresa a su mujer y a sus dos hijos con un viaje: atravesar el país hasta llegar al parque de atracciones favorito de las familias estadounidenses, Walley World.",
-      "category": "Comedia",
-      "featured": false,
-      "image": "https://es.web.img3.acsta.net/pictures/15/07/07/10/57/045335.jpg",
-      "coverPage": "https://i0.wp.com/www.mexmads.com/wp-content/uploads/2020/05/vacaciones-netflix.jpg?resize=1280%2C640&ssl=1",
-      "trailer": "https://www.youtube.com/embed/KS3i1Kt_y7Q"
-    },
-    {
-      "id": 23,
-      "name": "SON COMO NIÑOS",
-      "description": "La muerte de su entrenador de baloncesto durante su infancia provoca la reunión de algunos viejos amigos, quienes se ven en el lugar en el que celebraron un campeonato años atrás. Los compañeros hablan sobre sus esposas y sus hijos, y descubren que la edad no necesariamente va de la mano con la madurez.",
-      "category": "Comedia",
-      "featured": false,
-      "image": "https://images.moviefit.me/t/o/9233-grown-ups.jpg",
-      "coverPage": "https://tvazteca.brightspotcdn.com/90/4d/7a080db04165a99c6b9f4bf2525b/son-como-ninos.jpg",
-      "trailer": "https://www.youtube.com/embed/yMEDiKD7cyE"
-    },
-    {
-      "id": 24,
-      "name": "Y DONDE ESTAN LAS RUBIAS?",
-      "description": "Dos desafortunados agentes del FBI se hacen pasar por dos chicas, novatas en la alta sociedad para investigar una serie de secuestros. Pero mientras preparan su plan, descubren que irrumpir en la alta sociedad es mucho más duro de lo que creían.",
-      "category": "Comedia",
-      "featured": true,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91BZmDCNgeL._RI_.jpg",
-      "coverPage": "https://thescript.com.mx/wp-content/uploads/2020/11/HMP.png",
-      "trailer": "https://www.youtube.com/embed/CQBneDyoGs8"
     }
   ]
 }
